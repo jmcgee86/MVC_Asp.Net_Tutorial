@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.csprojResolveAssemblyReference.cache
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.AssemblyInfo.cs
+/Users/jmcgee/Documents/MVCTest/bin/Debug/netcoreapp2.0/MVCTest.deps.json
+/Users/jmcgee/Documents/MVCTest/bin/Debug/netcoreapp2.0/MVCTest.runtimeconfig.json
+/Users/jmcgee/Documents/MVCTest/bin/Debug/netcoreapp2.0/MVCTest.runtimeconfig.dev.json
+/Users/jmcgee/Documents/MVCTest/bin/Debug/netcoreapp2.0/MVCTest.dll
+/Users/jmcgee/Documents/MVCTest/bin/Debug/netcoreapp2.0/MVCTest.pdb
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.dll
+/Users/jmcgee/Documents/MVCTest/obj/Debug/netcoreapp2.0/MVCTest.pdb
